@@ -2,25 +2,35 @@
 
 @media (max-width: 768px) {
     body{
-        padding: 20px;
-
-    }
-    .container{
-        size: 10%;
-        display: flex;
-        position: fixed;
-        margin: 20px;
+        margin: auto;
         border: 20px;
-        padding: 20px;
 
     }
-    header{
-        padding: 80px;
-        display: flex;
-        width: 100%;
-        display: flex;
+    .logo-container{
+        size: 10%;
+        display: inline-block;
+        position: fixed;
+        justify-content: space-around;
     }
-}
+    .logo{
+        size: 5%;
+        display: inline-block;
+    }
+    .list-1{
+
+    }
+    .work{
+        size: 10px;
+    }
+    h1{
+        size: 10%;
+    }
+    .logos{
+        size:10px;
+    }
+
+    }
+
 
 
 
